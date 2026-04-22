@@ -7,7 +7,7 @@ Manual web accessibility audits conducted against WCAG 2.1 Level AA.
 | Site | Type | Status |
 |---|---|---|
 | [Bleach & Soda Hair Studio](https://www.bleachandsodahairstudio.com/) | Small business, booking flow | Complete |
-| [LumberJaxe](https://lumberjaxe.com/) | Small business, booking flow | In progress |
+| [LumberJaxe Axe Throwing](https://lumberjaxe.com/) | Small business, booking flow | In progress |
 
 **Tools used:** HeadingsMap · axe DevTools · WAVE · WebAIM Contrast Checker · VoiceOver (macOS)  
 **Standard:** WCAG 2.1 Level AA  
